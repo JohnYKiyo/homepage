@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://johnykiyo.github.io/homepage/about/</loc>
+    <lastmod>2020-06-10T12:34:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnykiyo.github.io/homepage/about/about/</loc>
+    <lastmod>2020-06-10T12:34:34+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnykiyo.github.io/homepage/</loc>
+    <lastmod>2020-06-10T12:34:34+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://johnykiyo.github.io/homepage/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://johnykiyo.github.io/homepage/"
+                />
+  </url>
+  
+  <url>
     <loc>https://johnykiyo.github.io/homepage/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -13,20 +38,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://johnykiyo.github.io/homepage/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://johnykiyo.github.io/homepage/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://johnykiyo.github.io/homepage/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://johnykiyo.github.io/homepage/"
                 />
   </url>
   
