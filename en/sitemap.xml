@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://johnykiyo.github.io/homepage/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://johnykiyo.github.io/homepage/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://johnykiyo.github.io/homepage/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://johnykiyo.github.io/homepage/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://johnykiyo.github.io/homepage/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://johnykiyo.github.io/homepage/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://johnykiyo.github.io/homepage/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://johnykiyo.github.io/homepage/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://johnykiyo.github.io/homepage/tags/"
+                />
+  </url>
+  
+</urlset>
